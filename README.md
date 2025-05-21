@@ -15,15 +15,10 @@ Place `N` queens on an `N×N` chessboard such that no two queens attack each oth
 - Displays number of iterations, conflicts, and restarts
 - Clearly indicates when a solution is found
 
-## 📷 Preview
-
-> (You can insert a screenshot or GIF of the program here)
-
 ## 🛠️ Technologies
 
 - **Language:** C++
 - **Graphics Library:** [Raylib](https://www.raylib.com/)
 - **Compiler:** g++ or MSVC
 
-## 📄 Project Structure
 
